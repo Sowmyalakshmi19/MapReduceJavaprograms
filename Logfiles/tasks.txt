@@ -1,0 +1,10 @@
+
+======================================
+
+Count the number of logs of each type like trace log 7, error logs 12 and so on.
+
+======================================
+
+Find the module name which is generating maximum error logs
+
+======================================
